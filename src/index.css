@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Silkscreen&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Ibarra+Real+Nova&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* body {
+
+  font-family: 'Ibarra Real Nova', serif;
+  font-size-adjust: auto;
+  line-height: 1.75em;
+  text-align: left;
+  word-wrap: break-word;
+  text-rendering: optimizeLegibility;
+
+  background-color: #000;
+
+  color: #fff;
+
+  overflow-x: hidden;
+}
+
+
+.fontArc{
+  font-family: 'Silkscreen', cursive;
+} */

@@ -1,0 +1,15 @@
+{
+    "introduction": "Hello, my name is Axolotl-Dev and I am a web developer with experience in various technologies such as ReactJS, JavaScript, HTML, CSS, JSON, and Bootstrap, among others. In addition, I have skills to work in a team and the ability to find quick and effective solutions to the challenges that arise in a project. If you are looking for a reliable and capable developer, I am here to help!",
+    "navlocSkill":"skills",
+    "navlocProjects":"Projects",
+    "projectsNameLogin":"login",
+    "projectsNameVeterinaryBootstrap":"Bootstrap Veterinary",
+    "projectsNameClimaReact":"Climate React",
+    "projectsNameProposalLove":"Proposal love",
+    "projectsNamePCYD":"PCYD",
+    "projectsNameCalculator":"Calculator",
+    "navNamesHome":"Home",
+    "navNameSkills":"skills",
+    "navNameProjects":"Projects",
+    "navNameAboutMe":"About me"
+} 
